@@ -1,0 +1,17 @@
+1. Hold down the Shift key and then Right Click in an empty area of the folder.
+
+2. In the context menu that appears, you’ll see either:
+
+			+ “Open PowerShell window here” (Windows 10/11)
+
+		          or “Open command window here” (older versions)
+
+3. Click that option. A terminal will open
+
+4. Copy -> paste below to run command:
+
+streamlit run code\ui_interfaces\app_local_streamlit.py
+
+
+
+
